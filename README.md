@@ -14,3 +14,6 @@ A Framework to switch between different apps/ programms on the M5 Paper with a G
 - From then on it is just using the Touchscreen like on your Smartphone
 - If you boot the device without holding the power Button it swiches to the last choosen app/programm
   -  on mode change the switcher gives you a fully initialsed and empty Display  
+
+# Video Demonstration
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6aP02C0bNrU/0.jpg)](https://www.youtube.com/watch?v=6aP02C0bNrU)
