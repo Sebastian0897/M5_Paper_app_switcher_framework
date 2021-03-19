@@ -2,9 +2,11 @@
 A Framework to switch between different apps/ programms on the M5 Paper with a GUI.
 
 
-# Setup Arduino
+# Setup 
 - Setup Arduino for an ESP32
 - Select the M5 Stack Core2 as the Development Board (I know that is not quite Correct, but it works)
+- you can add your programs in the Mode1,mode2,... files
+- in the configuration file you can name each mode and select how many modes to display
 - flash the files
 
 
